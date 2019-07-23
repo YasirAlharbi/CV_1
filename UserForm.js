@@ -7,7 +7,7 @@ import success from './success';
 
 
 export class UserForm extends Component{
-    satate= {
+    state= {
         step: 1,
         firstName: '',
         lastName:'',
